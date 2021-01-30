@@ -41,7 +41,11 @@ Here are some ideas to get you started:
 
 <img alt="Heroku" width="35px" src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-07-10/396072065317_f8b9a63ed67ca0368c6e_512.png"/>
 
+<img alt="Java" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 
+<img alt="Cpp" width="35px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png"/>
+
+<img alt="C" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 
 </div>
 
