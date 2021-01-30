@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </div>
   <div>
     <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AubidaNaalwa&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Oryam's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AubidaNaalwa&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Aubida Naalwa's GitHub Stats" />
     </a>
   </div>
 </div>
