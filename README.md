@@ -35,11 +35,14 @@ Here are some ideas to get you started:
 
 <img  alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" />
 
-<img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
+<img  alt="mysql" width="35px" src="https://findicons.com/files/icons/977/rrze/720/database_mysql.png" />
 
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
 <img alt="Heroku" width="35px" src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-07-10/396072065317_f8b9a63ed67ca0368c6e_512.png"/>
+
+
+
 </div>
 
 ---
