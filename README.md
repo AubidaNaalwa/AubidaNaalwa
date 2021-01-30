@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <img  alt="mysql" width="35px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg" />
 
 <img  alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+
+<img src="https://slack-files2.s3-us-west-2.amazonaws.com/avatars/2018-07-10/396072065317_f8b9a63ed67ca0368c6e_512.png"/>
 </div>
 
 ---
