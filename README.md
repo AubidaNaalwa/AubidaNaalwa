@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
-    <a href="https://github.com/or-yam/or-yam">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-yam&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
+    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AubidaNaalwa&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
   </div>
   <div>
-    <a href="https://github.com/or-yam/or-yam">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=or-yam&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Oryam's GitHub Stats" />
+    <a href="https://github.com/AubidaNaalwa/AubidaNaalwa">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=AubidaNaalwa&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Oryam's GitHub Stats" />
     </a>
   </div>
 </div>
